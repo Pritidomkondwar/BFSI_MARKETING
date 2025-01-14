@@ -1,5 +1,6 @@
 # BFSI_MARKETING
 MACHINE LEARNING PROJECT
+<br>
 AUTHOR:-PRITI DOMKONDWAR
 Caravan Insurance Policy Prediction 
 •	Objective: Developed a predictive model to determine whether a customer is likely to purchase a caravan insurance policy based on 86 features, including product usage and sociodemographic data.
