@@ -2,6 +2,7 @@
 MACHINE LEARNING PROJECT
 <br>
 AUTHOR:-PRITI DOMKONDWAR
+<br>
 Caravan Insurance Policy Prediction 
 •	Objective: Developed a predictive model to determine whether a customer is likely to purchase a caravan insurance policy based on 86 features, including product usage and sociodemographic data.
 •	Data: Utilized a dataset of 5,000+ customer records for training and 4,000 customer records for testing, with the target variable indicating whether a customer holds a caravan insurance policy (binary classification: 0/1).
